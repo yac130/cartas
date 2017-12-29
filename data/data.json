@@ -1,0 +1,40 @@
+{  
+   "videos":[  
+      {  
+         "id":"01",
+         "titulo":"¡Es navidad!",
+         "video":"videos\/video-1.mp4",
+         "cover":"img\/cover-1.jpg"
+      },
+      {  
+         "id":"02",
+         "titulo":"Noche de paz",
+         "video":"videos\/video-1.mp4",
+         "cover":"img\/cover-1.jpg"
+      },
+      {  
+         "id":"03",
+         "titulo":"El mejor regalo",
+         "video":"videos\/video-1.mp4",
+         "cover":"img\/cover-1.jpg"
+      },
+      {  
+         "id":"04",
+         "titulo":"¡Es navidad!",
+         "video":"videos\/video-1.mp4",
+         "cover":"img\/cover-1.jpg"
+      },
+      {  
+         "id":"05",
+         "titulo":"Noche de paz",
+         "video":"videos\/video-1.mp4",
+         "cover":"img\/cover-1.jpg"
+      },
+      {  
+         "id":"06",
+         "titulo":"El mejor regalo",
+         "video":"videos\/video-1.mp4",
+         "cover":"img\/cover-1.jpg"
+      }
+   ]
+}
